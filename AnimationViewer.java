@@ -147,7 +147,6 @@ class AnimationViewer extends JComponent implements Runnable, TreeModel{
 	
 	// end of additional METHODS FOR Q8
 
-	// you don't need to make any changes after this line ______________
 	public String getCurrentLabel() {return currentLabel;}
 	public int getCurrentHeight() { return currentHeight; }
 	public int getCurrentWidth() { return currentWidth; }
