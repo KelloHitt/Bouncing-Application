@@ -1,5 +1,5 @@
 # Bouncing-Application
-An application where shapes are shown bouncing within a panel. Its path can be altered by the user (i.e how it moves across the panel). To run this application please ensure you locally mpve this reposirty and run the A3.java file by using an IDE (Integrated Development Environment) such as Eclipse (IDE for Java Developers version) and install the Java Development Kit (JDK).
+An application where shapes are shown bouncing within a panel. Its path can be altered by the user (i.e how it moves across the panel). To run this application please ensure you locally move this repository and run the A3.java file by using an IDE (Integrated Development Environment) such as Eclipse (IDE for Java Developers version) and install the Java Development Kit (JDK).
 
 
 <img width="1464" height="552" alt="image" src="https://github.com/user-attachments/assets/ba14d6a6-2321-411f-b6f8-00935817e497" />
